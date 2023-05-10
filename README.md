@@ -21,6 +21,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
           
 <!--   <img align="right" alt="Lucas" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1lcY9KZyhdvS3JD8DpvzsHUq2d-OlsIR-/view?usp=share_link"> -->
 </div>
