@@ -1,7 +1,6 @@
 <span>
-  Olá, sou o Lucas! 😁
+  Olá, sou o Lucas!  
 
-  - 🔭 Engenheiro de software júnior no Itaú Unibanco. 
   - 🌱 Formado em Sistemas para Internet, cursando pós-graduação em Desenvolvimento Web Full-Stack na PUC Minas.
 </span>
 
