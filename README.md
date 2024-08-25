@@ -1,7 +1,7 @@
 <span>
   Olá, sou o Lucas!  
 
-  - 🌱 Formado em Sistemas para Internet, cursando pós-graduação em Desenvolvimento Web Full-Stack na PUC Minas.
+  - 🌱 Formado em Sistemas para Internet, com pós-graduação em Desenvolvimento Web Full-Stack pela PUC Minas.
 </span>
 
   ##
